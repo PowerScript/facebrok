@@ -1,46 +1,28 @@
- ______
- | ___|
- | |_____________________  ___ _______  __
- |  ______ | ___|  __ | |__| |/ /_ | | / /
- | || |  | | |  | ____| __ | | / | | |/ /
- | || |__| | |__| |___||_| |  /|_| |   |
- |_||____,,|____|_____|____|__|____|_|\_\ VS 1.7
+Katana Framework
 
- facebrok [Social Engineering Tool Oriented to facebook]
+#ABOUT
+facebrok is a social tool for exploiting social network accounts facebook, 
+this platform brings together various Templates explotacion credentials for specific objectives.
 
- facebrok is a social platform for exploiting social network accounts facebook, 
- this platform brings together various Templates explotacion credentials for specific objectives.
+# REQUIREMENTS
+```
+        PHP 5.5 or more
+        MYSQL
+```
 
- Templates: 
- here you see some links that you might use for send to target, also you can choose a destination when
- the target type his credentials.
+#INSTALLATION
 
- Spammer:
- here you see some templates for eMails, where you might do a spam attack.
- 
- Brute force:
- brute force to accouns facebook.
- 
+```
+        Extract the facebrok[Vs1.7].rar 
+        go to facebrok[Vs1.7] folder
+        Extract the FilesforServer.rar 
+        go to FilesforServer
+        Copy all file to Apache folder (var/www or public_html)
+        go to http://localhost/croak/install
+```
 
- Info:
- Creator  : Redtoor
- email    : redtoor@inbox.ru
-	Size     : 6,04 Mb 
-	Files    : 184
-	Folders  : 6
-	Languages: Spanish, English, Russian.  
-	[Make you Own Language in lang.php file and Send me ;)]
-
-	hash     : ce8349251bf33616c840122184907183
-	Donate BC: 196H8v86JtnMA2ZG5RqxKBfSz5D3JLCUGj
-	
-       ++ + + + + + + + + + Disclaimer + + + + + + + + + + ++
-      + I have no Responsible for the use of this platform.  +
-      + this is only for use of conscientization of people   +
-      + of such attacks.                                     +
-       ++ + + + + + + + + + + + + + + + + + + + + + + + + +++
-
-
+#Features
+```
  End-Time 
  News Vs 1.7 - 2015-07-13
 	* Brute force attack
@@ -114,3 +96,4 @@
  News Vs 1.1 - 2014-06-3
 	* Launching
  Start-Time
+ ```
