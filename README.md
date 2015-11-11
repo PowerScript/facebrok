@@ -1,4 +1,3 @@
-facebrok
 
 <p align="center"><img src="http://www.protecciononline.com/galeria/proteccion_online/Facebook_Phishing.jpg" /><br /><i>Phishing</i></p>
 
@@ -7,9 +6,11 @@ facebrok
 facebrok is a social tool for exploiting social network accounts facebook, 
 this platform brings together various Templates explotacion credentials for specific objectives.
 
+SF: http://sourceforge.net/projects/facebrok/
+
 # REQUIREMENTS
 ```
-        PHP 5.5 or more
+        PHP 5.5 or higher
         MYSQL
 ```
 
