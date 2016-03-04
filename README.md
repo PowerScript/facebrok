@@ -10,24 +10,31 @@ SF: http://sourceforge.net/projects/facebrok/
 
 # REQUIREMENTS
 ```
-        PHP 5.5 or higher
+        PHP
         MYSQL
 ```
 
 #INSTALLATION
 
 ```
-        Extract the facebrok[Vs1.7].rar 
-        go to facebrok[Vs1.7] folder
-        Extract the FilesforServer.rar 
-        go to FilesforServer
-        Copy all file to Apache folder (var/www or public_html)
-        go to http://localhost/croak/install
+        Extract the facebrok[Vs{LastVersion}].rar
+        Upload files to server
+        Install.
 ```
 
 #Features
 ```
  End-Time 
+  News Vs 1.8 - 2016-04-03
+	* Update templates
+	* Update Installer for linux
+	* Added New Template Pre: Rendering link
+	Errors:
+	* fixed Mysql Error Deprecate
+	Changes:
+	* Added Extention to files.
+	* Remove Installer for Windows and 7zip
+
  News Vs 1.7 - 2015-07-13
 	* Brute force attack
 	* Installer (Windows, Linux[Kali,Backtrack])
