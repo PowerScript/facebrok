@@ -7,17 +7,15 @@ facebrok is a social tool for exploiting social network accounts facebook,
 this platform brings together various Templates explotacion credentials for specific objectives.
 
 # REQUIREMENTS
-```
-        PHP
-        MYSQL
-```
+* PHP
+* Mysql
 
 #INSTALLATION
 
 ```
-        Extract the facebrok[Vs{LastVersion}].rar
-        Upload files to server
-        Install.
+       1) git clone https://github.com/PowerScript/facebrok/
+       2) Upload files to your server.
+       3) go to domain and Install.
 ```
 
 #Features
