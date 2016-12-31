@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<facebrok>
+    <language>
+		<email_or_phone>Correo electrónico o teléfono</email_or_phone>
+		<welcome_to_facebook>Facebook - Inicia sesión o regístrate</welcome_to_facebook>
+		<password>Contraseña</password>
+		<forge_account>¿Olvidaste tu cuenta?</forge_account>
+		<log_in>Iniciar sesión</log_in>
+		<sign_up>Abrir una cuenta</sign_up>
+		<free_ever>Es gratis y lo será siempre.</free_ever>
+		<first_name>Nombre</first_name>
+		<last_name>Apellido</last_name>
+		<mobil_or_email>Número de celular o correo electrónico</mobil_or_email>
+		<re_mobil_or_email>Vuelve a ingresar tu número de celular o correo electrónico</re_mobil_or_email>
+		<new_password>Contraseña nueva</new_password>
+		<birthday>Cumpleaños</birthday>
+		<month>Mes</month>
+		<day>Dia</day>
+		<year>Año</year>
+		<what_need_my_bir>¿Por qué tengo que proporcionar mi fecha de nacimiento?</what_need_my_bir>
+		<female>Mujer</female>
+		<male>Hombre</male>
+		<by_clicking_sign>Al hacer clic en "Abrir una cuenta", aceptas los</by_clicking_sign>
+		<terms>Terminos</terms>
+		<and_that_you>y confirmas que leíste nuestra</and_that_you>
+		<data_policy>Política de datos</data_policy>
+		<inclufing_our>incluido el</inclufing_our>
+		<cookie_use>uso de cookies</cookie_use>
+		<thanks_for_exit>¡Gracias por pasarte!</thanks_for_exit>
+		<we_hope_to_see>Esperamos volver a verte pronto.</we_hope_to_see>
+		<create_a_page>Crea una página</create_a_page>
+		<for_business>para un personaje público, un grupo de música o un negocio</for_business>
+		<log_into_facebook>Iniciar sesion en Facebook</log_into_facebook>
+		<log_up_into_face>Registrarse en Facebook</log_up_into_face>
+		<create_new_account>Crear nueva cuenta</create_new_account>
+		<create_account>Crear cuenta</create_account>
+		<forge_password>Olvido la contraseña?</forge_password>
+		<help_center>Centro de ayuda</help_center>
+		<see_nickimaj>Ver más acerca de nickimaj Modelo ingresando a Facebook</see_nickimaj>
+		<msg_nickimaj>Mensaje esta página, aprender acerca de los próximos eventos y mucho más. Si usted no tiene una cuenta de Facebook, puede crear uno para ver más de esta página.</msg_nickimaj>
+		<not_now>Ahora no</not_now>
+		<not_logged>No ha Iniciado sesion.</not_logged>
+		<pls_not_logged>Porfavor inicie sesion para continuar.</pls_not_logged>
+		<home>Inicio</home>
+		<about>Informacion</about>
+		<photos>Fotos</photos>
+		<likes>Likes</likes>
+		<videos>Videos</videos>
+		<post>Post</post>
+		<like>Like</like>
+		<save>guardar</save>
+		<share>Compartir</share>
+		<more>Mas</more>
+		<public_figure>Figura Publica</public_figure>
+		<blocked_link>Link Bloqueado</blocked_link>
+		<blocked_link_msg>Creemos que el enlace que está intentando tener acceso es malicioso. Para su seguridad, hemos bloqueado. Aprender cómo proteger su cuenta. Si cree que este enlace no debe ser bloqueado, avísenos.</blocked_link_msg>
+		<back>atras</back>
+		<search_people>Busca personas, lugares y cosas</search_people>
+		<outting>Dejando facebook...</outting>
+		<is_on_facebook>esta en Facebook</is_on_facebook>
+		<to_connect_with>Para conectar con</to_connect_with>
+		<sign_up_with_face>regístrate hoy en Facebook</sign_up_with_face>
+		<friends>Amigos</friends>
+		<log_in_for_photos>Inicia sesión o crea una cuenta para ver las fotos de</log_in_for_photos>
+		<other_named>Otras personas que se llaman</other_named>
+		<favorites>Favoritos</favorites>
+		<no_info>No hay información para mostrar</no_info>
+		<info_contact>Información del contacto</info_contact>
+		<other>Otros</other>
+		<no_info_contact>No hay información de contacto</no_info_contact>
+		<no_pages>No hay páginas que mostrar</no_pages>
+	</language>
+</facebrok>
+

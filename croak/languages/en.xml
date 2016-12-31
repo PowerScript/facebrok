@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<facebrok>
+    <language>
+		<email_or_phone>Email or Phone:</email_or_phone>
+		<welcome_to_facebook>Welcome to Facebook - Log In, Sign Up or Learn More</welcome_to_facebook>
+		<password>Password:</password>
+		<forge_account>Forgot account?</forge_account>
+		<log_in>Log In</log_in>
+		<sign_up>Sign Up</sign_up>
+		<free_ever>It's free and always will be.</free_ever>
+		<first_name>Name</first_name>
+		<last_name>Last name</last_name>
+		<mobil_or_email>Mobile number or email</mobil_or_email>
+		<re_mobil_or_email>Re-enter mobile number or email</re_mobil_or_email>
+		<new_password>New password</new_password>
+		<birthday>Birthday</birthday>
+		<month>Month</month>
+		<day>Day</day>
+		<year>Year</year>
+		<what_need_my_bir>Why do I need to provide my birthday?</what_need_my_bir>
+		<female>Female</female>
+		<male>Male</male>
+		<by_clicking_sign>By clicking Sign Up, you agree to our</by_clicking_sign>
+		<terms>Terms</terms>
+		<and_that_you>and that you have read our</and_that_you>
+		<data_policy>Data Policy</data_policy>
+		<inclufing_our>including our</inclufing_our>
+		<cookie_use>Cookie Use</cookie_use>
+		<thanks_for_exit>Thanks for stopping by!</thanks_for_exit>
+		<we_hope_to_see>We hope to see you again soon.</we_hope_to_see>
+		<create_a_page>Create a Page</create_a_page>
+		<for_business>for a celebrity, band or business</for_business>
+		<log_into_facebook>Log into Facebook</log_into_facebook>
+		<log_up_into_face>Sign up for Facebook</log_up_into_face>
+		<create_new_account>Create New Account</create_new_account>
+		<create_account>Create Account</create_account>
+		<forge_password>Forgot Password?</forge_password>
+		<help_center>Help Center</help_center>
+		<see_nickimaj>See more of nickimaj Model by logging into Facebook</see_nickimaj>
+		<msg_nickimaj>Message this Page, learn about upcoming events and more. If you don't have a Facebook account, you can create one to see more of this Page.</msg_nickimaj>
+		<not_now>Not Now</not_now>
+		<not_logged>Not logged.</not_logged>
+		<pls_not_logged>Please sign in to continue.</pls_not_logged>
+		<home>Home</home>
+		<about>About</about>
+		<photos>Photos</photos>
+		<likes>Likes</likes>
+		<videos>Videos</videos>
+		<post>Post</post>
+		<like>Like</like>
+		<save>Save</save>
+		<share>Share</share>
+		<more>More</more>
+		<public_figure>Public Figure</public_figure>
+		<blocked_link>Blocked link</blocked_link>
+		<blocked_link_msg>We believe that the link you are trying to access is malicious. For your security, we have locked. Learn how to protect your account. If you think this link should not be blocked, let us know.</blocked_link_msg>
+		<back>back</back>
+		<search_people>Search for people, places and things</search_people>
+		<outting>Leaving facebook...</outting>
+		<is_on_facebook>is on Facebook</is_on_facebook>
+		<to_connect_with>To connect with</to_connect_with>
+		<sign_up_with_face>sign up for Facebook today</sign_up_with_face>
+		<friends>Friends</friends>
+		<log_in_for_photos>Log in or Create an account to see photos of</log_in_for_photos>
+		<other_named>Others Named</other_named>
+		<favorites>Favorites</favorites>
+		<no_info>No information to display</no_info>
+		<info_contact>Contact information</info_contact>
+		<other>Others</other>
+		<no_info_contact>No contact information to display</no_info_contact>
+		<no_pages>No Pages to show</no_pages>
+	</language>
+</facebrok>
+
