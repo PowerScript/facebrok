@@ -21,6 +21,7 @@
     }
 </style>
 <title>Photo | Facebook</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="dynamic/índice.ico" />
 <body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" scroll="no">
 <a href="login.php?login_attempt=1&lwv=1">
